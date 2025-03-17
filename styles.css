@@ -1,4 +1,4 @@
-* General Reset */
+/* General Reset */
 * {
     margin: 0;
     padding: 0;
@@ -207,7 +207,7 @@ body {
 
 /* Texto de las cartas */
 .card p {
-    color: rgba(51, 27, 59, 0.66);
+    color: rgb(111, 135, 166);
     width: 275px;
     font-size: 15px;
 }
@@ -269,7 +269,7 @@ body {
 .custom-description {
     font-size: 18px;
     color: black;
-    max-width: 500px; 
+    max-width: 1000px; 
     line-height: 1.5;
 }
 
@@ -429,7 +429,7 @@ body {
     }
 
     .companies{
-        background-color: rgba(51, 27, 59, 1);
+        background-color: rgb(111, 135, 166);
     }
 
     .company-logos{
@@ -523,7 +523,7 @@ body {
         justify-content: center;
         align-items: center;
         text-align: center;
-        background-color: rgba(51, 27, 59, 1);
+        background-color:rgb(111, 135, 166);
         width: 379px;
     }
 
@@ -560,7 +560,7 @@ body {
         justify-content: center;
         align-items: center;
         text-align: center;
-        background-color: rgba(51, 27, 59, 1);
+        background-color:rgb(111, 135, 166);
     }
 
     .footer p{
